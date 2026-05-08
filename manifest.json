@@ -3408,10 +3408,10 @@
       "checksum": "f653bcdc621a1297451fa33bd034ac76"
     },
     ".Rbuildignore": {
-      "checksum": "db7a2523c9952a038590d67c56cbed11"
+      "checksum": "ce5f6b805d34813ccf20e79186abbabb"
     },
     ".Rprofile": {
-      "checksum": "0bf19a92044e335d3fac267d3ddf7dc7"
+      "checksum": "1bfd52c06687c9b73066a8021d743745"
     },
     "app.R": {
       "checksum": "5ac5dd9c64f3d27eff2fb6d962506516"
